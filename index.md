@@ -3,10 +3,16 @@
 The web is full of public data that can be easily extracted. On this page I will show you how through my own real-life scraping tasks. If these don't cover your needs, you can [contact me](mailto:hello@scrapeyscrape.com) for bespoke scraping jobs.
 
 
-### Scraping reviews from [ratemds.com](ratemds.com)
+### Basic: Scraping reviews from [ratemds.com](ratemds.com)
 Recently a friend was considering having back surgery done by Dr. Michael Nikolakis. I wanted to do some research on Dr. Nikolakis and came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
 
+The website provides a simple listing of reviews like this:
 ![ratemds_reviews](./img/ratemds_reviews.jpg)
+I wanted to extract the following fields:
+- The overall rating in stars;
+- Individual ratings for Staff, Punctuality, Helpfulness, and Knowledge;
+- The content of the review itself;
+- And the date of the review.
 
 ```markdown
 Syntax highlighted code block
