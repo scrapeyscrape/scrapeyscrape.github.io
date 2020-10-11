@@ -18,7 +18,7 @@ I wanted to extract the following fields:
 #### Pagination
 Hovering over the navigation links at the bottom of the pages revealed the simple pagination structure:
 ![ratemds_pagination](./img/ratemds_pagination.jpg)
-
+The top-level link is https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html and each of the pages is indicated with ```?page=PAGENO'''.
 
 
 ```markdown
