@@ -1,8 +1,6 @@
-## Welcome to Scrapeyscrape! 
+## Welcome to scrapeyscrape.com!
 
-You can use the [editor on GitHub](https://github.com/scrapeyscrape/scrapeyscrape.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The web is full of public data that can be easily extracted. On this page I will show you how through my own real-life scraping adventures. If these don't cover your needs, contact me at hello@scrapeyscrape.com for custom scraping jobs.
 
 ### Markdown
 
