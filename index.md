@@ -4,9 +4,9 @@ The web is full of public data that can be easily extracted. On this page I will
 
 
 ### Scraping reviews from [ratemds.com](ratemds.com)
-Recently a friend was considering back surgery to be performed by Dr. Michael Nikolakis. Doing some research on Dr. Nikolakis, I came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
+Recently a friend was considering having back surgery done by Dr. Michael Nikolakis. I wanted to do some research on Dr. Nikolakis and came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
 
-![ratemds_reviews](img/ratemds_reviews.jpg)
+![ratemds_reviews](./img/ratemds_reviews.jpg)
 
 ```markdown
 Syntax highlighted code block
