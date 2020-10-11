@@ -3,10 +3,10 @@
 The web is full of public data that can be easily extracted. On this page I will show you how through my own real-life scraping tasks. If these don't cover your needs, you can [contact me](mailto:hello@scrapeyscrape.com) for bespoke scraping jobs.
 
 
- ### Scraping reviews from [ratemds.com](ratemds.com)
+### Scraping reviews from [ratemds.com](ratemds.com)
 Recently a friend was considering back surgery to be performed by Dr. Michael Nikolakis. Doing some research on Dr. Nikolakis, I came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![ratemds_reviews](img/ratemds_reviews.jpg)
 
 ```markdown
 Syntax highlighted code block
