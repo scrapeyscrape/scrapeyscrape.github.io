@@ -6,20 +6,13 @@ The web is full of public data that can be easily extracted. On this page I will
 ### Basic: Scraping reviews from [ratemds.com](ratemds.com)
 Recently a friend was considering having back surgery done by Dr. Michael Nikolakis. I wanted to do some research on Dr. Nikolakis and came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
 
-#### Content
 The website provides a simple listing of reviews like this:
 ![ratemds_reviews](./img/ratemds_reviews.jpg)
 I wanted to extract the following fields:
 - The overall rating in stars;
 - Individual ratings for Staff, Punctuality, Helpfulness, and Knowledge;
 - The content of the review itself;
-- The date of the review.
-
-#### Pagination
-Hovering over the navigation links at the bottom of the pages revealed the simple pagination structure:
-![ratemds_pagination](./img/ratemds_pagination.jpg)
-
-
+- And the date of the review.
 
 ```markdown
 Syntax highlighted code block
