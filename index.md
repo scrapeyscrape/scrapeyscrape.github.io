@@ -1,12 +1,12 @@
-## Welcome!
+# Welcome!
 
 The web is full of public data that can be easily extracted. On this page I will show you how through my own real-life scraping tasks. If these don't cover your needs, you can [contact me](mailto:hello@scrapeyscrape.com) for bespoke scraping jobs.
 
 
-### Basic: Scraping reviews from [ratemds.com](ratemds.com)
+## Scraping reviews from [ratemds.com](ratemds.com)
 Recently a friend was considering having back surgery done by Dr. Michael Nikolakis. I wanted to do some research on Dr. Nikolakis and came across ~80 reviews on [ratemds.com](https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html).
 
-#### Content
+### Content
 The website provides a simple listing of reviews like this:
 ![ratemds_reviews](./img/ratemds_reviews.jpg)
 I wanted to extract the following fields:
@@ -15,10 +15,10 @@ I wanted to extract the following fields:
 - The content of the review itself;
 - The date of the review.
 
-#### Pagination
+### Pagination
 Hovering over the navigation links at the bottom of the pages revealed the simple pagination structure:
 ![ratemds_pagination](./img/ratemds_pagination.jpg)
-The top-level link is https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html and each of the pages is indicated with ```?page=PAGENO'''.
+The top-level link is `https://www.ratemds.com/doctor-ratings/958209/Dr-Michael-Nikolakis-New+Westminster-BC.html` and each page adds a suffix `?page=PAGENUMBER`.
 
 
 
